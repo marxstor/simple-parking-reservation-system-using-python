@@ -1,0 +1,1 @@
+{2: {'Name': '2', 'Date': '2023-12-26', 'Time': '2', 'Vehicle Type': '2', 'Plate': '2'}, 1: {'Name': 'Mark', 'Date': '2023-12-26', 'Time': '1', 'Vehicle Type': '1', 'Plate': '1'}, 3: {'Name': 'Peter Don', 'Date': '2023-12-26', 'Time': '10:00 AM', 'Vehicle Type': '1', 'Plate': '12345'}}
