@@ -7,4 +7,4 @@ file
 If else statements
 For loops
 
-The reservation.txt serves as the database for the system by which it stores the recorded reservations
+The reservation.txt serves as the database for the system by which it stores the recorded reservations.
